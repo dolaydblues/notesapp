@@ -109,7 +109,7 @@ export default function App() {
             >
               <TextField
                 name="name"
-                placeholder="Note Name"
+                placeholder="Test Change name"
                 label="Note Name"
                 labelHidden
                 variation="quiet"
@@ -152,7 +152,7 @@ export default function App() {
                 justifyContent="center"
                 alignItems="center"
                 gap="2rem"
-                border="1px solid #ccc"
+                border="1px solid #646cffaa"
                 padding="2rem"
                 borderRadius="5%"
                 className="box"
